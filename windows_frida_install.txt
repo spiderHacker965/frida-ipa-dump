@@ -1,6 +1,6 @@
 
 下载最新版{python}:		https://www.python.org/downloads/
-下载对应的frida-py版本.egg	放到PythonXX\Lib\site-packages
+下载对应的frida-py版本.egg	放到PythonXX\Lib\site-packages		https://pypi.org/project/frida/#files
 
 
 把pip目录放到 %APPDATA%		(换阿里云镜像)
